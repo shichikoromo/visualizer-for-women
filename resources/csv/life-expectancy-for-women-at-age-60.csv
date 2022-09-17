@@ -1,0 +1,733 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,14.64,,,,,,14.64,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CAF,Central African Republic,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,14.85,,,,,,14.85,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,15.06,,,,,,15.06,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,LSO,Lesotho,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,15.24,,,,,,15.24,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2019,true,Sex,Female,FMLE,,,,,,,,,,15.58,,,,,,15.58,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,16.01,,,,,,16.01,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,16.28,,,,,,16.28,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,16.67,,,,,,16.67,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,16.72,,,,,,16.72,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ERI,Eritrea,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,16.82,,,,,,16.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,16.99,,,,,,16.99,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,HTI,Haiti,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.01,,,,,,17.01,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,COG,Congo,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.07,,,,,,17.07,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GIN,Guinea,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.16,,,,,,17.16,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,TJK,Tajikistan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.19,,,,,,17.19,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MDG,Madagascar,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.33,,,,,,17.33,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,TCD,Chad,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.34,,,,,,17.34,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.44,,,,,,17.44,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,FJI,Fiji,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.49,,,,,,17.49,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MLI,Mali,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.56,,,,,,17.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.59,,,,,,17.59,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BDI,Burundi,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.63,,,,,,17.63,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SWZ,Eswatini,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.71,,,,,,17.71,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.76,,,,,,17.76,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,NER,Niger,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.79,,,,,,17.79,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MOZ,Mozambique,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.83,,,,,,17.83,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.88,,,,,,17.88,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BWA,Botswana,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,17.97,,,,,,17.97,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,LBR,Liberia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.02,,,,,,18.02,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GMB,Gambia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.04,,,,,,18.04,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ZMB,Zambia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.05,,,,,,18.05,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.06,,,,,,18.06,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,GUY,Guyana,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.1,,,,,,18.1,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,AZE,Azerbaijan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.32,,,,,,18.32,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,WSM,Samoa,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.32,,,,,,18.32,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CMR,Cameroon,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.35,,,,,,18.35,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.38,,,,,,18.38,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.48,,,,,,18.48,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.51,,,,,,18.51,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BEN,Benin,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.52,,,,,,18.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,AGO,Angola,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.55,,,,,,18.55,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.63,,,,,,18.63,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,TGO,Togo,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.65,,,,,,18.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.69,,,,,,18.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.71,,,,,,18.71,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,COM,Comoros,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.75,,,,,,18.75,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.81,,,,,,18.81,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,NGA,Nigeria,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.86,,,,,,18.86,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MRT,Mauritania,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.87,,,,,,18.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.87,,,,,,18.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GHA,Ghana,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.89,,,,,,18.89,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.89,,,,,,18.89,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SEN,Senegal,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.92,,,,,,18.92,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SSD,South Sudan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.93,,,,,,18.93,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,18.96,,,,,,18.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MWI,Malawi,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.03,,,,,,19.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.06,,,,,,19.06,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.06,,,,,,19.06,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,HND,Honduras,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.08,,,,,,19.08,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,KEN,Kenya,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.09,,,,,,19.09,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.11,,,,,,19.11,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.11,,,,,,19.11,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.13,,,,,,19.13,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.15,,,,,,19.15,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,RWA,Rwanda,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.16,,,,,,19.16,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GAB,Gabon,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.25,,,,,,19.25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,NAM,Namibia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.25,,,,,,19.25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.28,,,,,,19.28,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.36,,,,,,19.36,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.38,,,,,,19.38,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,UGA,Uganda,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.38,,,,,,19.38,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ETH,Ethiopia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.4,,,,,,19.4,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.41,,,,,,19.41,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,IND,India,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.54,,,,,,19.54,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,PHL,Philippines,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.57,,,,,,19.57,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.59,,,,,,19.59,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.62,,,,,,19.62,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.64,,,,,,19.64,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,UZB,Uzbekistan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.81,,,,,,19.81,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,19.95,,,,,,19.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,TKM,Turkmenistan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,20.11,,,,,,20.11,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,GRD,Grenada,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,20.34,,,,,,20.34,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,SUR,Suriname,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,20.45,,,,,,20.45,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ZAF,South Africa,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,20.52,,,,,,20.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,20.56,,,,,,20.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,20.66,,,,,,20.66,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,20.77,,,,,,20.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,20.77,,,,,,20.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MDA,Republic of Moldova,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,20.92,,,,,,20.92,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,GEO,Georgia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.02,,,,,,21.02,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SRB,Serbia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.1,,,,,,21.1,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,TON,Tonga,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.16,,,,,,21.16,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.31,,,,,,21.31,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MNE,Montenegro,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.32,,,,,,21.32,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,GTM,Guatemala,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.43,,,,,,21.43,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.44,,,,,,21.44,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SYC,Seychelles,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.51,,,,,,21.51,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.53,,,,,,21.53,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.56,,,,,,21.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.63,,,,,,21.63,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.67,,,,,,21.67,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.69,,,,,,21.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,UKR,Ukraine,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.73,,,,,,21.73,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CPV,Cabo Verde,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.77,,,,,,21.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BRB,Barbados,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.79,,,,,,21.79,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,NIC,Nicaragua,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.87,,,,,,21.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.89,,,,,,21.89,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ALB,Albania,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.94,,,,,,21.94,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BGR,Bulgaria,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.97,,,,,,21.97,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MUS,Mauritius,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,21.97,,,,,,21.97,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.03,,,,,,22.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.07,,,,,,22.07,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ARM,Armenia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.15,,,,,,22.15,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,RUS,Russian Federation,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.19,,,,,,22.19,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,HUN,Hungary,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.27,,,,,,22.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,DOM,Dominican Republic,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.36,,,,,,22.36,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BHS,Bahamas,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.39,,,,,,22.39,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ROU,Romania,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.39,,,,,,22.39,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.4,,,,,,22.4,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BLR,Belarus,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.48,,,,,,22.48,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.48,,,,,,22.48,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,DZA,Algeria,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.62,,,,,,22.62,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,JAM,Jamaica,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.63,,,,,,22.63,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.63,,,,,,22.63,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.82,,,,,,22.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,LCA,Saint Lucia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.91,,,,,,22.91,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BLZ,Belize,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.93,,,,,,22.93,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,LVA,Latvia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,22.95,,,,,,22.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.05,,,,,,23.05,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,MEX,Mexico,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.06,,,,,,23.06,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,ARG,Argentina,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.08,,,,,,23.08,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,CHN,China,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.08,,,,,,23.08,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CUB,Cuba,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.18,,,,,,23.18,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,TUR,Türkiye,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.24,,,,,,23.24,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,LTU,Lithuania,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.46,,,,,,23.46,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,PRY,Paraguay,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.5,,,,,,23.5,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BRA,Brazil,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.51,,,,,,23.51,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,SLV,El Salvador,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.57,,,,,,23.57,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.6,,,,,,23.6,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,HRV,Croatia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.75,,,,,,23.75,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SVK,Slovakia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.93,,,,,,23.93,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,URY,Uruguay,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,23.96,,,,,,23.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,CZE,Czechia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,24,,,,,,24,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,ECU,Ecuador,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,24.31,,,,,,24.31,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,POL,Poland,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,24.33,,,,,,24.33,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,USA,United States of America,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,24.38,,,,,,24.38,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,THA,Thailand,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,24.84,,,,,,24.84,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,DNK,Denmark,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,24.85,,,,,,24.85,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,EST,Estonia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,24.99,,,,,,24.99,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.01,,,,,,25.01,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,PER,Peru,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.05,,,,,,25.05,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,NLD,Netherlands,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.13,,,,,,25.13,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.23,,,,,,25.23,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,COL,Colombia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.27,,,,,,25.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,IRL,Ireland,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.33,,,,,,25.33,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,GRC,Greece,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.52,,,,,,25.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ISL,Iceland,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.54,,,,,,25.54,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BEL,Belgium,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.58,,,,,,25.58,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SWE,Sweden,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.59,,,,,,25.59,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,AUT,Austria,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.6,,,,,,25.6,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SVN,Slovenia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.64,,,,,,25.64,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,NOR,Norway,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.76,,,,,,25.76,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,FIN,Finland,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.81,,,,,,25.81,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,LUX,Luxembourg,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.81,,,,,,25.81,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.84,,,,,,25.84,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MLT,Malta,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.86,,,,,,25.86,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CHL,Chile,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.88,,,,,,25.88,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.9,,,,,,25.9,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,PAN,Panama,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,25.95,,,,,,25.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ISR,Israel,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,26.03,,,,,,26.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,PRT,Portugal,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,26.29,,,,,,26.29,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CAN,Canada,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,26.38,,,,,,26.38,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CRI,Costa Rica,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,26.4,,,,,,26.4,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,CYP,Cyprus,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,26.43,,,,,,26.43,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ITA,Italy,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,26.53,,,,,,26.53,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,CHE,Switzerland,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,26.65,,,,,,26.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,AUS,Australia,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,26.83,,,,,,26.83,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,DEU,Germany,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,26.87,,,,,,26.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,FRA,France,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,27.21,,,,,,27.21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,SGP,Singapore,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,27.22,,,,,,27.22,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ESP,Spain,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,27.34,,,,,,27.34,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,27.87,,,,,,27.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,JPN,Japan,Year,2019,true,Sex,Female,FMLE,,,,,,,,,,28.56,,,,,,28.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,14.39,,,,,,14.39,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CAF,Central African Republic,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,14.4,,,,,,14.4,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,LSO,Lesotho,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,14.42,,,,,,14.42,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,15.52,,,,,,15.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2015,false,Sex,Female,FMLE,,,,,,,,,,15.6,,,,,,15.6,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,15.82,,,,,,15.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,16.09,,,,,,16.09,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,16.32,,,,,,16.32,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,16.45,,,,,,16.45,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,16.54,,,,,,16.54,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ERI,Eritrea,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,16.55,,,,,,16.55,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,COG,Congo,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,16.6,,,,,,16.6,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GIN,Guinea,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,16.62,,,,,,16.62,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,HTI,Haiti,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,16.66,,,,,,16.66,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,TJK,Tajikistan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,16.67,,,,,,16.67,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,16.83,,,,,,16.83,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,16.99,,,,,,16.99,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,TCD,Chad,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.05,,,,,,17.05,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SWZ,Eswatini,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.1,,,,,,17.1,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MDG,Madagascar,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.16,,,,,,17.16,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MLI,Mali,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.2,,,,,,17.2,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,FJI,Fiji,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.23,,,,,,17.23,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,LBR,Liberia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.28,,,,,,17.28,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BDI,Burundi,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.39,,,,,,17.39,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.43,,,,,,17.43,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.46,,,,,,17.46,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MOZ,Mozambique,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.48,,,,,,17.48,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,NER,Niger,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.48,,,,,,17.48,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.52,,,,,,17.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.52,,,,,,17.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BWA,Botswana,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.61,,,,,,17.61,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ZMB,Zambia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.65,,,,,,17.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CMR,Cameroon,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.71,,,,,,17.71,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.76,,,,,,17.76,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.86,,,,,,17.86,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GMB,Gambia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.88,,,,,,17.88,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,AZE,Azerbaijan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,17.95,,,,,,17.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,GUY,Guyana,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.03,,,,,,18.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.14,,,,,,18.14,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,WSM,Samoa,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.2,,,,,,18.2,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BEN,Benin,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.21,,,,,,18.21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.26,,,,,,18.26,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,TGO,Togo,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.27,,,,,,18.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.35,,,,,,18.35,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.38,,,,,,18.38,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,AGO,Angola,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.42,,,,,,18.42,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,NGA,Nigeria,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.5,,,,,,18.5,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,COM,Comoros,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.54,,,,,,18.54,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GHA,Ghana,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.56,,,,,,18.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,HND,Honduras,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.65,,,,,,18.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SEN,Senegal,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.68,,,,,,18.68,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SSD,South Sudan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.68,,,,,,18.68,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MRT,Mauritania,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.7,,,,,,18.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.71,,,,,,18.71,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.71,,,,,,18.71,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.73,,,,,,18.73,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.74,,,,,,18.74,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.75,,,,,,18.75,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MWI,Malawi,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.81,,,,,,18.81,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,KEN,Kenya,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.82,,,,,,18.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.82,,,,,,18.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.88,,,,,,18.88,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.91,,,,,,18.91,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.93,,,,,,18.93,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.94,,,,,,18.94,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GAB,Gabon,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,18.98,,,,,,18.98,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,UZB,Uzbekistan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.04,,,,,,19.04,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,RWA,Rwanda,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.05,,,,,,19.05,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,NAM,Namibia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.06,,,,,,19.06,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ETH,Ethiopia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.09,,,,,,19.09,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ZAF,South Africa,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.12,,,,,,19.12,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,UGA,Uganda,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.16,,,,,,19.16,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.18,,,,,,19.18,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.18,,,,,,19.18,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,IND,India,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.25,,,,,,19.25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.27,,,,,,19.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.32,,,,,,19.32,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.36,,,,,,19.36,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MDA,Republic of Moldova,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.53,,,,,,19.53,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,TKM,Turkmenistan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.55,,,,,,19.55,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.72,,,,,,19.72,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,PHL,Philippines,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.74,,,,,,19.74,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,19.95,,,,,,19.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,20.23,,,,,,20.23,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,20.24,,,,,,20.24,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,20.26,,,,,,20.26,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,GRD,Grenada,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,20.39,,,,,,20.39,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,GEO,Georgia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,20.46,,,,,,20.46,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,20.49,,,,,,20.49,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MNE,Montenegro,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,20.59,,,,,,20.59,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,20.62,,,,,,20.62,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,20.74,,,,,,20.74,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SRB,Serbia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,20.75,,,,,,20.75,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,GTM,Guatemala,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,20.81,,,,,,20.81,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.04,,,,,,21.04,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,UKR,Ukraine,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.12,,,,,,21.12,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,TON,Tonga,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.14,,,,,,21.14,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ARM,Armenia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.17,,,,,,21.17,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.2,,,,,,21.2,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.25,,,,,,21.25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.29,,,,,,21.29,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.37,,,,,,21.37,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,RUS,Russian Federation,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.39,,,,,,21.39,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SYC,Seychelles,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.4,,,,,,21.4,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,NIC,Nicaragua,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.48,,,,,,21.48,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BGR,Bulgaria,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.5,,,,,,21.5,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BRB,Barbados,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.72,,,,,,21.72,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,SUR,Suriname,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.76,,,,,,21.76,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.77,,,,,,21.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,HUN,Hungary,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.86,,,,,,21.86,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BLR,Belarus,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.87,,,,,,21.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ROU,Romania,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.87,,,,,,21.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MUS,Mauritius,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.9,,,,,,21.9,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.91,,,,,,21.91,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,21.95,,,,,,21.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,DOM,Dominican Republic,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.02,,,,,,22.02,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.09,,,,,,22.09,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.1,,,,,,22.1,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CPV,Cabo Verde,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.12,,,,,,22.12,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ALB,Albania,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.15,,,,,,22.15,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BHS,Bahamas,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.28,,,,,,22.28,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.3,,,,,,22.3,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,DZA,Algeria,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.33,,,,,,22.33,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.45,,,,,,22.45,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.56,,,,,,22.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,LVA,Latvia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.65,,,,,,22.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,CHN,China,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.74,,,,,,22.74,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BLZ,Belize,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.75,,,,,,22.75,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,SLV,El Salvador,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.85,,,,,,22.85,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,TUR,Türkiye,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.92,,,,,,22.92,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,MEX,Mexico,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.93,,,,,,22.93,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,JAM,Jamaica,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.95,,,,,,22.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,LTU,Lithuania,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,22.95,,,,,,22.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BRA,Brazil,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,23,,,,,,23,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,ARG,Argentina,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,23.04,,,,,,23.04,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SVK,Slovakia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,23.04,,,,,,23.04,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,HRV,Croatia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,23.16,,,,,,23.16,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CUB,Cuba,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,23.24,,,,,,23.24,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,CZE,Czechia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,23.4,,,,,,23.4,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,PRY,Paraguay,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,23.46,,,,,,23.46,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,ECU,Ecuador,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,23.61,,,,,,23.61,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2015,false,Sex,Female,FMLE,,,,,,,,,,23.69,,,,,,23.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,POL,Poland,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,23.73,,,,,,23.73,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,23.74,,,,,,23.74,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,LCA,Saint Lucia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,23.78,,,,,,23.78,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,URY,Uruguay,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,24.12,,,,,,24.12,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,EST,Estonia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,24.32,,,,,,24.32,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,USA,United States of America,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,24.37,,,,,,24.37,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,DNK,Denmark,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,24.45,,,,,,24.45,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,24.65,,,,,,24.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,COL,Colombia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,24.68,,,,,,24.68,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,PER,Peru,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,24.71,,,,,,24.71,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,THA,Thailand,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,24.73,,,,,,24.73,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,DEU,Germany,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,24.84,,,,,,24.84,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,NLD,Netherlands,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,24.87,,,,,,24.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,IRL,Ireland,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,24.94,,,,,,24.94,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,GRC,Greece,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.11,,,,,,25.11,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BEL,Belgium,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.15,,,,,,25.15,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SVN,Slovenia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.19,,,,,,25.19,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,AUT,Austria,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.21,,,,,,25.21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SWE,Sweden,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.25,,,,,,25.25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ISL,Iceland,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.29,,,,,,25.29,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.33,,,,,,25.33,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CHL,Chile,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.35,,,,,,25.35,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,PAN,Panama,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.42,,,,,,25.42,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,NOR,Norway,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.44,,,,,,25.44,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MLT,Malta,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.58,,,,,,25.58,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ISR,Israel,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.59,,,,,,25.59,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,PRT,Portugal,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.63,,,,,,25.63,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,CYP,Cyprus,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.64,,,,,,25.64,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,FIN,Finland,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.68,,,,,,25.68,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.9,,,,,,25.9,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,LUX,Luxembourg,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.91,,,,,,25.91,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CAN,Canada,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,25.98,,,,,,25.98,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ITA,Italy,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,26.01,,,,,,26.01,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,CHE,Switzerland,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,26.23,,,,,,26.23,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,AUS,Australia,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,26.27,,,,,,26.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CRI,Costa Rica,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,26.36,,,,,,26.36,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,SGP,Singapore,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,26.67,,,,,,26.67,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ESP,Spain,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,26.69,,,,,,26.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,26.91,,,,,,26.91,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,FRA,France,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,26.93,,,,,,26.93,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,JPN,Japan,Year,2015,false,Sex,Female,FMLE,,,,,,,,,,28.12,,,,,,28.12,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,HTI,Haiti,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,12.01,,,,,,12.01,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,14.15,,,,,,14.15,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CAF,Central African Republic,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,14.2,,,,,,14.2,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,LSO,Lesotho,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,14.7,,,,,,14.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,15.17,,,,,,15.17,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,15.37,,,,,,15.37,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,15.42,,,,,,15.42,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2010,false,Sex,Female,FMLE,,,,,,,,,,15.65,,,,,,15.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SWZ,Eswatini,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,15.66,,,,,,15.66,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,15.72,,,,,,15.72,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,15.96,,,,,,15.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,COG,Congo,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.05,,,,,,16.05,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.12,,,,,,16.12,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ERI,Eritrea,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.22,,,,,,16.22,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.34,,,,,,16.34,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.35,,,,,,16.35,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GIN,Guinea,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.59,,,,,,16.59,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,TCD,Chad,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.64,,,,,,16.64,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,TJK,Tajikistan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.65,,,,,,16.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.77,,,,,,16.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.78,,,,,,16.78,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BDI,Burundi,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.83,,,,,,16.83,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,FJI,Fiji,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.84,,,,,,16.84,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.86,,,,,,16.86,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MDG,Madagascar,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.89,,,,,,16.89,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MLI,Mali,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,16.99,,,,,,16.99,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,LBR,Liberia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.03,,,,,,17.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.07,,,,,,17.07,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ZMB,Zambia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.07,,,,,,17.07,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,NER,Niger,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.24,,,,,,17.24,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.24,,,,,,17.24,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CMR,Cameroon,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.25,,,,,,17.25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BWA,Botswana,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.32,,,,,,17.32,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.43,,,,,,17.43,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MOZ,Mozambique,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.44,,,,,,17.44,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.52,,,,,,17.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,AGO,Angola,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.54,,,,,,17.54,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,GUY,Guyana,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.56,,,,,,17.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,AZE,Azerbaijan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.64,,,,,,17.64,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GMB,Gambia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.74,,,,,,17.74,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,TGO,Togo,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.82,,,,,,17.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GHA,Ghana,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.94,,,,,,17.94,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BEN,Benin,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,17.97,,,,,,17.97,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MWI,Malawi,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.03,,,,,,18.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,NGA,Nigeria,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.03,,,,,,18.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.1,,,,,,18.1,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.13,,,,,,18.13,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,WSM,Samoa,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.15,,,,,,18.15,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MDA,Republic of Moldova,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.18,,,,,,18.18,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,COM,Comoros,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.21,,,,,,18.21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GAB,Gabon,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.23,,,,,,18.23,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.27,,,,,,18.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.28,,,,,,18.28,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ETH,Ethiopia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.29,,,,,,18.29,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MRT,Mauritania,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.31,,,,,,18.31,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.35,,,,,,18.35,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.4,,,,,,18.4,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.42,,,,,,18.42,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,KEN,Kenya,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.48,,,,,,18.48,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SSD,South Sudan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.48,,,,,,18.48,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SEN,Senegal,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.49,,,,,,18.49,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ZAF,South Africa,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.5,,,,,,18.5,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.61,,,,,,18.61,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.61,,,,,,18.61,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,RWA,Rwanda,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.65,,,,,,18.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,UGA,Uganda,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.67,,,,,,18.67,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,UZB,Uzbekistan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.72,,,,,,18.72,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.74,,,,,,18.74,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.75,,,,,,18.75,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.76,,,,,,18.76,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,NAM,Namibia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.76,,,,,,18.76,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.81,,,,,,18.81,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,TKM,Turkmenistan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.85,,,,,,18.85,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2010,false,Sex,Female,FMLE,,,,,,,,,,18.87,,,,,,18.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,IND,India,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.02,,,,,,19.02,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.03,,,,,,19.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.07,,,,,,19.07,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,HND,Honduras,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.07,,,,,,19.07,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.07,,,,,,19.07,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.19,,,,,,19.19,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.31,,,,,,19.31,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.33,,,,,,19.33,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.47,,,,,,19.47,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.48,,,,,,19.48,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.56,,,,,,19.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.63,,,,,,19.63,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,UKR,Ukraine,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.81,,,,,,19.81,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,PHL,Philippines,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,19.95,,,,,,19.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.02,,,,,,20.02,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SRB,Serbia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.03,,,,,,20.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.06,,,,,,20.06,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,GEO,Georgia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.11,,,,,,20.11,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.14,,,,,,20.14,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,RUS,Russian Federation,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.15,,,,,,20.15,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MNE,Montenegro,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.3,,,,,,20.3,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,GRD,Grenada,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.48,,,,,,20.48,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,GTM,Guatemala,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.49,,,,,,20.49,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BLR,Belarus,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.51,,,,,,20.51,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ARM,Armenia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.52,,,,,,20.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.7,,,,,,20.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BGR,Bulgaria,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,20.92,,,,,,20.92,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.03,,,,,,21.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.04,,,,,,21.04,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,NIC,Nicaragua,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.1,,,,,,21.1,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ROU,Romania,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.11,,,,,,21.11,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.18,,,,,,21.18,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,TON,Tonga,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.21,,,,,,21.21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MUS,Mauritius,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.22,,,,,,21.22,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.44,,,,,,21.44,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SYC,Seychelles,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.44,,,,,,21.44,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.49,,,,,,21.49,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,CHN,China,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.52,,,,,,21.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.53,,,,,,21.53,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,SUR,Suriname,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.55,,,,,,21.55,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BRB,Barbados,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.69,,,,,,21.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,LVA,Latvia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.7,,,,,,21.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.71,,,,,,21.71,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.77,,,,,,21.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,HUN,Hungary,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.81,,,,,,21.81,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.82,,,,,,21.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,DZA,Algeria,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.85,,,,,,21.85,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SVK,Slovakia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,21.92,,,,,,21.92,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.01,,,,,,22.01,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.11,,,,,,22.11,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BLZ,Belize,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.15,,,,,,22.15,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BHS,Bahamas,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.22,,,,,,22.22,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.29,,,,,,22.29,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,HRV,Croatia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.39,,,,,,22.39,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BRA,Brazil,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.42,,,,,,22.42,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,LTU,Lithuania,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.49,,,,,,22.49,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,TUR,Türkiye,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.55,,,,,,22.55,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ALB,Albania,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.63,,,,,,22.63,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,MEX,Mexico,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.67,,,,,,22.67,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,ARG,Argentina,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.7,,,,,,22.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,ECU,Ecuador,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.77,,,,,,22.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,DOM,Dominican Republic,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.85,,,,,,22.85,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CPV,Cabo Verde,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.88,,,,,,22.88,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CUB,Cuba,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.91,,,,,,22.91,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,CZE,Czechia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.95,,,,,,22.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,SLV,El Salvador,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,22.96,,,,,,22.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,PRY,Paraguay,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,23,,,,,,23,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,EST,Estonia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,23.2,,,,,,23.2,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,POL,Poland,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,23.26,,,,,,23.26,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,DNK,Denmark,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,23.5,,,,,,23.5,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2010,false,Sex,Female,FMLE,,,,,,,,,,23.64,,,,,,23.64,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,URY,Uruguay,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,23.74,,,,,,23.74,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,PER,Peru,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,23.77,,,,,,23.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,JAM,Jamaica,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,23.79,,,,,,23.79,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,THA,Thailand,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,23.81,,,,,,23.81,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,23.98,,,,,,23.98,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,USA,United States of America,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.21,,,,,,24.21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CHL,Chile,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.22,,,,,,24.22,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,COL,Colombia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.27,,,,,,24.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,LCA,Saint Lucia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.29,,,,,,24.29,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,IRL,Ireland,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.57,,,,,,24.57,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.62,,,,,,24.62,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MLT,Malta,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.71,,,,,,24.71,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,DEU,Germany,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.76,,,,,,24.76,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,NLD,Netherlands,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.8,,,,,,24.8,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,CYP,Cyprus,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.83,,,,,,24.83,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SVN,Slovenia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.83,,,,,,24.83,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,GRC,Greece,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.85,,,,,,24.85,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BEL,Belgium,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.88,,,,,,24.88,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,NOR,Norway,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.96,,,,,,24.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,PAN,Panama,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,24.96,,,,,,24.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,PRT,Portugal,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,25,,,,,,25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SWE,Sweden,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,25,,,,,,25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ISL,Iceland,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,25.02,,,,,,25.02,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,LUX,Luxembourg,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,25.15,,,,,,25.15,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,AUT,Austria,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,25.16,,,,,,25.16,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,FIN,Finland,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,25.28,,,,,,25.28,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ISR,Israel,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,25.31,,,,,,25.31,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,25.35,,,,,,25.35,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CRI,Costa Rica,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,25.4,,,,,,25.4,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CAN,Canada,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,25.7,,,,,,25.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,SGP,Singapore,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,25.83,,,,,,25.83,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,25.88,,,,,,25.88,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ITA,Italy,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,26.1,,,,,,26.1,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,AUS,Australia,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,26.13,,,,,,26.13,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,CHE,Switzerland,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,26.19,,,,,,26.19,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ESP,Spain,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,26.5,,,,,,26.5,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,FRA,France,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,26.77,,,,,,26.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,JPN,Japan,Year,2010,false,Sex,Female,FMLE,,,,,,,,,,27.69,,,,,,27.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CAF,Central African Republic,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,13.37,,,,,,13.37,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,13.65,,,,,,13.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BDI,Burundi,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,14.03,,,,,,14.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,14.21,,,,,,14.21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ZMB,Zambia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,14.7,,,,,,14.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,COG,Congo,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,14.73,,,,,,14.73,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,14.74,,,,,,14.74,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ETH,Ethiopia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,14.91,,,,,,14.91,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,14.91,,,,,,14.91,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,RWA,Rwanda,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,14.96,,,,,,14.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,15.23,,,,,,15.23,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,15.27,,,,,,15.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,15.38,,,,,,15.38,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2000,false,Sex,Female,FMLE,,,,,,,,,,15.47,,,,,,15.47,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ERI,Eritrea,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,15.56,,,,,,15.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,15.61,,,,,,15.61,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MWI,Malawi,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,15.76,,,,,,15.76,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BWA,Botswana,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,15.82,,,,,,15.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MLI,Mali,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,15.87,,,,,,15.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SWZ,Eswatini,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,15.89,,,,,,15.89,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,HTI,Haiti,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,15.92,,,,,,15.92,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,AGO,Angola,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.01,,,,,,16.01,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.02,,,,,,16.02,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,TCD,Chad,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.11,,,,,,16.11,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,NER,Niger,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.19,,,,,,16.19,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MDG,Madagascar,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.22,,,,,,16.22,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,FJI,Fiji,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.25,,,,,,16.25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,LBR,Liberia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.25,,,,,,16.25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GIN,Guinea,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.26,,,,,,16.26,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,NAM,Namibia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.27,,,,,,16.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.3,,,,,,16.3,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.38,,,,,,16.38,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.38,,,,,,16.38,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CMR,Cameroon,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.41,,,,,,16.41,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.48,,,,,,16.48,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.6,,,,,,16.6,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.62,,,,,,16.62,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,UGA,Uganda,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.62,,,,,,16.62,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,LSO,Lesotho,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.65,,,,,,16.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.77,,,,,,16.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.81,,,,,,16.81,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,IND,India,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.84,,,,,,16.84,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.87,,,,,,16.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GAB,Gabon,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.96,,,,,,16.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,NGA,Nigeria,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,16.96,,,,,,16.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,COM,Comoros,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.03,,,,,,17.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MRT,Mauritania,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.04,,,,,,17.04,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.07,,,,,,17.07,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.14,,,,,,17.14,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,UZB,Uzbekistan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.14,,,,,,17.14,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.14,,,,,,17.14,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MDA,Republic of Moldova,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.16,,,,,,17.16,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MOZ,Mozambique,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.24,,,,,,17.24,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GHA,Ghana,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.25,,,,,,17.25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,GUY,Guyana,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.29,,,,,,17.29,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,TGO,Togo,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.35,,,,,,17.35,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,BEN,Benin,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.41,,,,,,17.41,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.41,,,,,,17.41,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.41,,,,,,17.41,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.46,,,,,,17.46,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.63,,,,,,17.63,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,GMB,Gambia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.65,,,,,,17.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SEN,Senegal,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.65,,,,,,17.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SSD,South Sudan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.65,,,,,,17.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.67,,,,,,17.67,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.68,,,,,,17.68,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.76,,,,,,17.76,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.8,,,,,,17.8,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,TKM,Turkmenistan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.82,,,,,,17.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,AZE,Azerbaijan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.88,,,,,,17.88,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.95,,,,,,17.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.95,,,,,,17.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,ZAF,South Africa,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.96,,,,,,17.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.98,,,,,,17.98,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,TJK,Tajikistan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.98,,,,,,17.98,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,17.98,,,,,,17.98,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,WSM,Samoa,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.02,,,,,,18.02,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,KEN,Kenya,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.1,,,,,,18.1,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.18,,,,,,18.18,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.18,,,,,,18.18,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.23,,,,,,18.23,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.27,,,,,,18.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.33,,,,,,18.33,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.35,,,,,,18.35,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.36,,,,,,18.36,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SRB,Serbia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.41,,,,,,18.41,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,GEO,Georgia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.45,,,,,,18.45,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.7,,,,,,18.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,RUS,Russian Federation,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.7,,,,,,18.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,UKR,Ukraine,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.83,,,,,,18.83,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,18.95,,,,,,18.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BGR,Bulgaria,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,19.2,,,,,,19.2,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,19.21,,,,,,19.21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BLR,Belarus,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,19.45,,,,,,19.45,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,19.46,,,,,,19.46,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,HND,Honduras,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,19.56,,,,,,19.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,19.57,,,,,,19.57,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,PHL,Philippines,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,19.65,,,,,,19.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ROU,Romania,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,19.73,,,,,,19.73,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,MUS,Mauritius,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,19.75,,,,,,19.75,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,19.76,,,,,,19.76,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,19.83,,,,,,19.83,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,19.99,,,,,,19.99,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,CHN,China,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.09,,,,,,20.09,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,GTM,Guatemala,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.12,,,,,,20.12,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,HUN,Hungary,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.12,,,,,,20.12,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ARM,Armenia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.23,,,,,,20.23,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,DZA,Algeria,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.25,,,,,,20.25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,SUR,Suriname,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.49,,,,,,20.49,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.54,,,,,,20.54,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MNE,Montenegro,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.61,,,,,,20.61,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,LVA,Latvia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.64,,,,,,20.64,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SVK,Slovakia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.66,,,,,,20.66,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BLZ,Belize,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.73,,,,,,20.73,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.74,,,,,,20.74,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,TON,Tonga,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.79,,,,,,20.79,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,HRV,Croatia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.91,,,,,,20.91,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,EST,Estonia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,20.94,,,,,,20.94,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,GRD,Grenada,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21,,,,,,21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21,,,,,,21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,SYC,Seychelles,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.05,,,,,,21.05,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.1,,,,,,21.1,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ALB,Albania,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.21,,,,,,21.21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.22,,,,,,21.22,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,CZE,Czechia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.26,,,,,,21.26,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BRA,Brazil,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.31,,,,,,21.31,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.32,,,,,,21.32,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,NIC,Nicaragua,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.33,,,,,,21.33,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BHS,Bahamas,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.37,,,,,,21.37,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,POL,Poland,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.39,,,,,,21.39,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.48,,,,,,21.48,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,BRB,Barbados,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.52,,,,,,21.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,LTU,Lithuania,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.66,,,,,,21.66,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,LCA,Saint Lucia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.66,,,,,,21.66,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,IRL,Ireland,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,21.93,,,,,,21.93,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22,,,,,,22,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,DNK,Denmark,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.08,,,,,,22.08,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,SEAR,South-East Asia,Country,THA,Thailand,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.1,,,,,,22.1,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AFR,Africa,Country,CPV,Cabo Verde,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.25,,,,,,22.25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,JAM,Jamaica,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.28,,,,,,22.28,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,MLT,Malta,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.38,,,,,,22.38,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,ARG,Argentina,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.52,,,,,,22.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,SLV,El Salvador,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.58,,,,,,22.58,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.66,,,,,,22.66,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SVN,Slovenia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.67,,,,,,22.67,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,TUR,Türkiye,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.69,,,,,,22.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,MEX,Mexico,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.73,,,,,,22.73,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,USA,United States of America,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.8,,,,,,22.8,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,PER,Peru,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.88,,,,,,22.88,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.88,,,,,,22.88,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.91,,,,,,22.91,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CUB,Cuba,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,22.98,,,,,,22.98,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,COL,Colombia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.06,,,,,,23.06,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,SGP,Singapore,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.06,,,,,,23.06,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CHL,Chile,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.09,,,,,,23.09,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,ECU,Ecuador,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.09,,,,,,23.09,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,GRC,Greece,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.09,,,,,,23.09,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,PRT,Portugal,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.11,,,,,,23.11,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ISR,Israel,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.13,,,,,,23.13,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,URY,Uruguay,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.14,,,,,,23.14,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,NLD,Netherlands,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.23,,,,,,23.23,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,CYP,Cyprus,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.24,,,,,,23.24,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,PRY,Paraguay,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.27,,,,,,23.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.5,,,,,,23.5,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,FIN,Finland,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.56,,,,,,23.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,DEU,Germany,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.57,,,,,,23.57,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,AUT,Austria,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.69,,,,,,23.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,BEL,Belgium,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.69,,,,,,23.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,LUX,Luxembourg,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.72,,,,,,23.72,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,NOR,Norway,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.74,,,,,,23.74,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CRI,Costa Rica,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.96,,,,,,23.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ISL,Iceland,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,23.97,,,,,,23.97,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,SWE,Sweden,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,24.07,,,,,,24.07,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,24.12,,,,,,24.12,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,CAN,Canada,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,24.27,,,,,,24.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,DOM,Dominican Republic,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,24.38,,,,,,24.38,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ITA,Italy,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,24.47,,,,,,24.47,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,CHE,Switzerland,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,24.8,,,,,,24.8,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,ESP,Spain,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,24.82,,,,,,24.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,AUS,Australia,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,24.85,,,,,,24.85,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,AMR,Americas,Country,PAN,Panama,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,24.92,,,,,,24.92,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,EUR,Europe,Country,FRA,France,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,25.29,,,,,,25.29,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000015,Life expectancy at age 60 (years),text,WPR,Western Pacific,Country,JPN,Japan,Year,2000,false,Sex,Female,FMLE,,,,,,,,,,26.59,,,,,,26.59,,,EN,2020-12-03T23:00:00.000Z
