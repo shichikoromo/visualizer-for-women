@@ -11,8 +11,5 @@
 ### Installation
 ```bash
 pip install pandas
-```
-
-```bash
 pip install pycountry
 ```

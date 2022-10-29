@@ -745,7 +745,7 @@ google.charts.load('current', {
     ]);
 
     var options = {
-        colorAxis: {colors: ['#ffffff', 'pink', '#e31b23']},
+        colorAxis: {colors: ['red', 'yellow', 'green']},
         backgroundColor: '#81d4fa',
         datalessRegionColor: 'gray',
         defaultColor: '#f5f5f5',
